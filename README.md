@@ -1,11 +1,6 @@
-## My Project
+## AWS SDK for Kotlin samples for JetBrains webinar (2022-02-22)
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+This repository contains the samples demoed during the [AWS SDK for Kotlin webinar](https://www.youtube.com/watch?v=1o1G3QIkipI) hosted by JetBrains on Feb 22, 2022.
 
 ## Security
 
